@@ -1,2 +1,2 @@
 # needapi
-the rescue when u need it
+RESTapi built using Flask
