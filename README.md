@@ -6,3 +6,5 @@ Functionalities:
 2. Squared Number(route:'/square/num')
 3. Current time(route:'/now')
 
+next update:
+(route:'/') - intro page. 
